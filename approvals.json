@@ -1,9 +1,4 @@
 {
- "approvals": {
-  "63f78a469fa474edbaab67b19d1ce5b09f1d4dab0499e7bbd6fc692c6969e95b": {
-   "state": "ok",
-   "at": "2026-10-16 16:47"
-  }
- },
+ "approvals": {},
  "note": "Ai0 가입 승인 목록 — 메일 주소 대신 지문(sha256(메일|요청 번호))만 적습니다"
 }
